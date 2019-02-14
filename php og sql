@@ -1,0 +1,6 @@
+# mySQL Workbench:
+Lag en tabell som heter 'Bestilling' med kolonnene 'Telefon', 'Navn', 'Burger', 'Drikke'. 
+Generer SQL ved hjelp av File | Export | Forward Engineer (next, next).
+
+# Adminer på webkode.skit.no
+Lim inn generert SQL-kode
