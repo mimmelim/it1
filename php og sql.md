@@ -1,11 +1,11 @@
 # mySQL Workbench:
-Lag en tabell som heter 'Bestilling' med kolonnene 'Telefon', 'Navn', 'Burger', 'Drikke'. 
-Husk at databasen din har feidenavnet ditt (ikke myDB)
-Generer SQL ved hjelp av File | Export | Forward Engineer (next, next).
+- Lag en tabell som heter 'Bestilling' med kolonnene 'Telefon', 'Navn', 'Burger', 'Drikke'. 
+- Husk at databasen din har feidenavnet ditt (ikke myDB)
+- Generer SQL ved hjelp av File | Export | Forward Engineer (next, next).
 
 # Adminer på webkode.skit.no:
-Lim inn generert SQL-kode
-Nå har du en tom tabell på databaseserveren din
+- Lim inn generert SQL-kode
+- Nå har du en tom tabell på databaseserveren din
 
 # Lag index.php basert på denne: 
 '''
