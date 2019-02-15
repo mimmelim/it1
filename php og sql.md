@@ -8,7 +8,7 @@
 - Nå har du en tom tabell på databaseserveren din
 
 # Lag index.php basert på denne: 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
