@@ -74,6 +74,6 @@
     ?>
 </body>
 </html>
-'''
+```
 
 # Når du nå fyller ut bestillingsskjemaet skal databasen din fylles opp av bestillinger. 
