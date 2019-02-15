@@ -76,5 +76,11 @@
 </body>
 </html>
 ```
+-Dersom du f.eks har checkboxer for ulike typer drikkevalg kan du skrive noe slik som:
+```
+$drikke = $_POST['drikke'];
+$drikk = implode(" , ",$drikke) ;
+```
+
 
 # Når du nå fyller ut bestillingsskjemaet skal databasen din fylles opp av bestillinger. 
