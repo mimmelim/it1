@@ -8,6 +8,7 @@
 - Nå har du en tom tabell på databaseserveren din
 
 # Lag index.php basert på denne: 
+- Husk at tabellen din heter 'Bestilling' med kolonnene 'Telefon', 'Navn', 'Burger', 'Drikke', og at du legger inn *din* feidebruker og passord til databasen din. 
 ```
 <!DOCTYPE html>
 <html lang="en">
